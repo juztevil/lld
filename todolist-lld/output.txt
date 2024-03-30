@@ -1,0 +1,146 @@
+program>javac todolist/*.java
+
+program>javac main.java
+
+program>java main
+Welcome to ToDo list app !:)
+1) Login
+2) Exit
+Enter the option: 1
+1) Enter the credentials
+2) Signup
+3) Return to main menu
+Enter the option: 1
+1) try
+2) exit
+Enter the option: 1
+Enter the username:
+userone
+Enter the password: user@123
+Username or Password is wrong
+1) try
+2) exit
+Enter the option: 2
+Back to the menu
+1) Enter the credentials
+2) Signup
+3) Return to main menu
+Enter the option: 2
+Enter the username: userone
+Enter the password: user@123
+Account created successfully
+1) Enter the credentials
+2) Signup
+3) Return to main menu
+Enter the option: 1
+1) try
+2) exit
+Enter the option: 1
+Enter the username: userone
+Enter the password: user@123
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 2
+userone todos:
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 1
+Enter the todo: Read a book
+Added a todo
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 1
+Enter the todo: Ride a bicycle
+Added a todo
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 2
+userone todos:
+Read a book
+Ride a bicycle
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 3
+1) try
+2) exit
+Enter the option: 2
+Back to the menu
+1) Enter the credentials
+2) Signup
+3) Return to main menu
+Enter the option: 2
+Enter the username: usertwo
+Enter the password: user@123
+Account created successfully
+1) Enter the credentials
+2) Signup
+3) Return to main menu
+Enter the option: 1
+1) try
+2) exit
+Enter the option: 1
+Enter the username: usertwo
+Enter the password: user@123
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 2
+usertwo todos:
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 1
+Enter the todo: paint the drawings
+Added a todo
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 1
+Enter the todo: see a movie
+Added a todo
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 2
+usertwo todos:
+paint the drawings
+see a movie
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 3
+1) try
+2) exit
+Enter the option: 1
+Enter the username: userone
+Enter the password: user@123
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 2
+userone todos:
+Read a book
+Ride a bicycle
+1) Add a todo
+2) Display a todo
+3) logout
+Enter the option: 3
+1) try
+2) exit
+Enter the option: 2
+Back to the menu
+1) Enter the credentials
+2) Signup
+3) Return to main menu
+Enter the option: 3
+Returning to the main menu
+1) Login
+2) Exit
+Enter the option: 2
+Thanks for using the ToDo list app. :)
+program>
